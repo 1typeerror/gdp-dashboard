@@ -17,3 +17,4 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
    $ streamlit run streamlit_app.py
    ```
+20251125：读取文件失败，或许是不能读取本地，考虑上传文件
